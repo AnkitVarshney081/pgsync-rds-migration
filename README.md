@@ -10,9 +10,7 @@ Prerequisites Python 3.x, pip AWS CLI configured with necessary permissions Requ
 # Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/akhileshmishrabiz/rds-migration.git
-
-cd pgsync-rds-migration
+git clone https://github.com/AnkitVarshney081/pgsync-rds-migration.git
 
 # Install the required Python packages:
 pip install -r requirements.txt
